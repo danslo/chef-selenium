@@ -1,4 +1,4 @@
-default['selenium']['server']['version'] = "2.31.0"
+default['selenium']['server']['version'] = "2.42.2"
 default['selenium']['server']['user'] = "selenium"
 default['selenium']['server']['installpath'] = "/usr/share/selenium"
 default['selenium']['server']['logpath'] = "/var/log/selenium"
